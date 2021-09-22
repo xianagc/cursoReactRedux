@@ -1,0 +1,20 @@
+html, body{
+    margin : 0;
+    padding: 0;
+}
+
+.login {
+    font-size: x-large;
+    color: #333;
+    font-family: sans-serif;
+    font-weight: 100;
+    content: center;
+    
+}
+
+.texto {
+    font-size: small;
+    font-family: sans-serif;
+    display: block;
+    margin-top: 10px;
+}

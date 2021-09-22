@@ -1,0 +1,8 @@
+[
+    {
+        "login": "Prueba",
+        "password": "abc123",
+        "name" : "Xiana",
+        "rol" : "user"
+    }
+]

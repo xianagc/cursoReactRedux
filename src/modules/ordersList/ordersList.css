@@ -1,0 +1,48 @@
+#header{
+    flex-direction: column;
+    align-items: center;
+}
+
+#header .titulo{
+    flex-direction: column;
+    font: bold 12px sans-serif;
+}
+
+#header .logo{
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+    height: 140px;
+}
+
+
+#body {
+    font: 14px sans-serif; 
+    background-color: antiquewhite; 
+}
+
+.textPending-info {
+    color: rgb(4, 4, 102);
+    font-weight: bold;
+}
+
+.textComplete-info {
+    color: rgb(7, 82, 7);
+    font-weight: bold;
+}
+
+.textCancelled-info {
+    color: rgb(122, 4, 4);
+    font-weight: bold;
+}
+
+.info-pedido-card {
+    transition: 0.9s ease all;    
+}
+
+.infoPedido-span {
+    display: block;
+    font: 20px sans-serif !important; 
+    color: midnightblue; 
+}
+

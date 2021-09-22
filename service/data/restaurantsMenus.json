@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Restaurante 1",
+        "phone": "+34 600 000 000",
+        "menu": [
+            {
+                "key": "primeros",
+                "items": ["Primero Op 1", "Primero Op 2"]
+            },
+            {
+                "key": "segundos",
+                "items": ["Segundo Op 1", "Segundo Op 2"]
+            }
+        ],
+        "onlineEnabled": true
+    },
+    {
+        "id": 2,
+        "name": "Restaurante 2",
+        "phone": "+34 600 000 002",
+        "menu": [
+            {
+                "key": "primeros",
+                "items": ["Primero Op 1", "Primero Op 2"]
+            },
+            {
+                "key": "segundos",
+                "items": ["Segundo Op 1", "Segundo Op 2"]
+            }
+        ],
+        "onlineEnabled": false
+    }
+]
